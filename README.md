@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nazanin53
-- 👀 I’m interestedin growing in AI 
+- 👀 I’m interested in learning everything in AI field 
 - 🌱 I’m currently learning machine learning and data science 
 - 💞️ I’m looking to collaborate on anything that helpe me to improve programing 
 - 📫 How to reach me ...
