@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazanin53
-- 👀 I’m interested in learning Data Science
-- 🌱 I’m currently learning Pyhton
+- 👀 I’m interestedin growing in AI 
+- 🌱 I’m currently learning machine learning and data science 
 - 💞️ I’m looking to collaborate on anything that helpe me to improve programing 
 - 📫 How to reach me ...
 
